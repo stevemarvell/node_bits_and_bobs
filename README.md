@@ -1,1 +1,8 @@
-# node_bits_and_bobs
+# Medicine Chooser
+
+Usage: `node medicine_chooser.js <condition>`
+
+eg.
+
+`node medicine_chooser.js epilepsy`
+
