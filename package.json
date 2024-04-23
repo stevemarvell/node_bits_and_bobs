@@ -1,0 +1,17 @@
+{
+  "name": "node_bits_and_bobs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "medicine_chooser.js",
+  "scripts": {
+    "start": "node medicine_chooser.js",
+    "dev": "nodemon medicine_chooser.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.5"
+  }
+}
